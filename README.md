@@ -9,11 +9,12 @@
 
 | **Folder / File** | **Description (Purpose)** |
 |--------------------|----------------------------|
-| **/SourceCode/** | |
-| **/PowerBI/** | |
-| **/Datasets/** | - (`source_Online Retail.xlsx`): the original dataset downloaded from Kaggle. <br> - (`cleaned_Online Retail.xlsx`): the preprocessed dataset after data cleaning|
-| **/Reports/** |(`231IS2102_Group 06_FinalReport.pdf`)|
-| **/Others/** | - Gantt chart (`Group 06 - GANTT CHART.xlsx`)
+| **Source Code** | |
+| **PowerBI** | Contains Power BI dashboard files (`.pbix`)|
+| **Datasets** | - Contains raw and cleaned datasets used in this project.<br>`source_Online Retail.xlsx`: the original dataset downloaded from Kaggle. <br> - `cleaned_Online Retail.xlsx`: the preprocessed dataset after data cleaning|
+| **Report Files** |- Contains all reporting files. <br>• `231IS2102_Group 06_FinalReport.docx` and `231IS2102_Group 06_FinalReport.pdf`: main report following the required structure|
+| **Readme File** | This document - provides instructions and introduction to the structure and contents of the project package. |
+| **Others** | - Gantt chart `Group 06 - GANTT CHART.xlsx`
 
 
 ## 🧭 Usage Instructions
