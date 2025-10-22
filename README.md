@@ -9,11 +9,11 @@
 
 | **Folder** | **Description** |
 |--------------------|----------------------------|
-| **Source Code** |Contains Python source code (`231IS2102_Group 06_FinalReport.pdf`) used for data analysis and clustering. <br> |
+| **Source Code** |Contains Python source code (`.ipynb`) used for data analysis and clustering. <br> |
 | **PowerBI** | Contains Power BI dashboard files (`.pbix`)|
-| **Datasets** | - Contains raw and cleaned datasets used in this project.<br>- `source_Online Retail.xlsx`: the original dataset downloaded from Kaggle. <br> - `cleaned_Online Retail.xlsx`: the preprocessed dataset after data cleaning|
-| **Report Files** |- Contains all reporting files. <br> `231IS2102_Group 06_FinalReport.docx` and `231IS2102_Group 06_FinalReport.pdf`: main report following the required structure|
-| **Readme File** | This document - provides instructions and introduction to the structure and contents of the project package. |
+| **Datasets** | Contains raw and cleaned datasets used in this project.<br>- `source_Online Retail.xlsx`: the original dataset downloaded from Kaggle. <br> - `cleaned_Online Retail.xlsx`: the preprocessed dataset after data cleaning|
+| **Report Files** |Contains all reporting files. <br> `231IS2102_Group 06_FinalReport.docx` and `231IS2102_Group 06_FinalReport.pdf`: main report following the required structure|
+| **Readme File** | This document (`README.md`) - provides instructions and introduction to the structure and contents of the project package. |
 | **Others** | - Gantt chart `Group 06 - GANTT CHART.xlsx`
 
 
