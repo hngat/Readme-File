@@ -11,13 +11,13 @@
 |--------------------|----------------------------|
 | **Source Code** | |
 | **PowerBI** | Contains Power BI dashboard files (`.pbix`)|
-| **Datasets** | - Contains raw and cleaned datasets used in this project.<br>`source_Online Retail.xlsx`: the original dataset downloaded from Kaggle. <br> - `cleaned_Online Retail.xlsx`: the preprocessed dataset after data cleaning|
-| **Report Files** |- Contains all reporting files. <br>• `231IS2102_Group 06_FinalReport.docx` and `231IS2102_Group 06_FinalReport.pdf`: main report following the required structure|
+| **Datasets** | - Contains raw and cleaned datasets used in this project.<br>- `source_Online Retail.xlsx`: the original dataset downloaded from Kaggle. <br> - `cleaned_Online Retail.xlsx`: the preprocessed dataset after data cleaning|
+| **Report Files** |- Contains all reporting files. <br> `231IS2102_Group 06_FinalReport.docx` and `231IS2102_Group 06_FinalReport.pdf`: main report following the required structure|
 | **Readme File** | This document - provides instructions and introduction to the structure and contents of the project package. |
 | **Others** | - Gantt chart `Group 06 - GANTT CHART.xlsx`
 
 
-## 🧭 Usage Instructions
+## Usage Instructions
 1. **Open the report** (`231IS2102_Group 06_FinalReport.pdf`) to understand the project overview, objectives, methodology, and findings.  
 2. **View the datasets** (`cleaned_Online Retail.xlsx`) to explore input data used in analysis.  
 3. **Run source code**:  
@@ -31,7 +31,7 @@
    - This file shows the overall project timeline, assigned responsibilities, and progress tracking.  
    - Use it to understand how the project was planned and executed by the team.
    
-## 🧩 Key Outputs
+## Key Outputs
 - Cleaned dataset  
 - Cluster results (K-Means, DBSCAN, Hierarchical)  
 - Model evaluation metrics (Silhouette, DBI, CHI)  
@@ -39,7 +39,7 @@
 - Final report with business recommendations  
 
 
-## 🧰 Tools and Libraries
+## Tools and Libraries
 - **Python:** pandas, numpy, scikit-learn, seaborn, matplotlib, plotly  
 - **Visualization:** Power BI
 - **Documentation:** Microsoft Word, Microsoft Excel
