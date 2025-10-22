@@ -11,12 +11,12 @@
 | **/SourceCode/** | |
 | **/PowerBI/** | |
 | **/Datasets/** | - source_Online Retail.xlsx: the original dataset downloaded from Kaggle. <br> - cleaned_Online Retail.xlsx: the preprocessed dataset after data cleaning|
-| **/Reports/** |
+| **/Reports/** |231IS2102_Group 06_FinalReport|
 | **/Others/** | - Gantt chart (`Group 06 - GANTT CHART.xlsx`)
 
 
 ## 🧭 Usage Instructions
-1. **Open the report** (`Group 06_Final Report.pdf`) to understand the project overview, objectives, methodology, and findings.  
+1. **Open the report** (`231IS2102_Group 06_FinalReport.pdf`) to understand the project overview, objectives, methodology, and findings.  
 2. **View the datasets** (`cleaned_Online Retail.xlsx`) to explore input data used in analysis.  
 3. **Run source code**:  
    - Open `customer_segmentation.ipynb` in Python.  
