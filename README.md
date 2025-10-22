@@ -10,7 +10,7 @@
 |--------------------|----------------------------|
 | **/SourceCode/** | |
 | **/PowerBI/** | |
-| **/Datasets/** | source_Online Retail.xlsx: the original dataset downloaded from Kaggle. <br>• cleaned_Online Retail.xlsx: the preprocessed dataset after data cleaning|
+| **/Datasets/** | - source_Online Retail.xlsx: the original dataset downloaded from Kaggle. <br> - cleaned_Online Retail.xlsx: the preprocessed dataset after data cleaning|
 | **/Reports/** |
 | **/Others/** | - Gantt chart (`Group 06 - GANTT CHART.xlsx`)
 
