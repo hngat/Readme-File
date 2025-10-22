@@ -1,4 +1,5 @@
-# 🎯 Customer Segmentation & Personalized Marketing Strategies  
+# 🎯 Developing Personalized Marketing Strategies Based on Customer Segmentation Using Machine Learning: K-Means, DBSCAN, and Hierarchical Clustering
+
 ## 🏫 Course Information
 - **Course ID:** 231IS2102 – Data Analytics in Business   
 - **Group:** 06    
@@ -30,7 +31,7 @@
    - Use it to understand how the project was planned and executed by the team.
    
 ## 🧩 Key Outputs
-- Cleaned and standardized RFM dataset  
+- Cleaned dataset  
 - Cluster results (K-Means, DBSCAN, Hierarchical)  
 - Model evaluation metrics (Silhouette, DBI, CHI)  
 - Power BI dashboard for visualization and insights  
