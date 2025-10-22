@@ -7,9 +7,9 @@
 
 ## 📂 Project Folder Structure and Description
 
-| **Folder / File** | **Description (Purpose)** |
+| **Folder** | **Description** |
 |--------------------|----------------------------|
-| **Source Code** | |
+| **Source Code** |Contains Python source code (`231IS2102_Group 06_FinalReport.pdf`) used for data analysis and clustering. <br> |
 | **PowerBI** | Contains Power BI dashboard files (`.pbix`)|
 | **Datasets** | - Contains raw and cleaned datasets used in this project.<br>- `source_Online Retail.xlsx`: the original dataset downloaded from Kaggle. <br> - `cleaned_Online Retail.xlsx`: the preprocessed dataset after data cleaning|
 | **Report Files** |- Contains all reporting files. <br> `231IS2102_Group 06_FinalReport.docx` and `231IS2102_Group 06_FinalReport.pdf`: main report following the required structure|
@@ -30,6 +30,7 @@
    - Open `Others/Group 06 - GANTT CHART.xlsx`  
    - This file shows the overall project timeline, assigned responsibilities, and progress tracking.  
    - Use it to understand how the project was planned and executed by the team.
+
    
 ## Key Outputs
 - Cleaned dataset  
